@@ -4,6 +4,7 @@ class Controller_Auth extends Controller
 	public function action_index()
 	{
 		echo "test";
+		echo "test2";
 	}
 
 	public function action_404()
