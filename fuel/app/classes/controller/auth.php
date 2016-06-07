@@ -5,6 +5,7 @@ class Controller_Auth extends Controller
 	{
 		echo "test";
 		echo "test2";
+		echo "test3";
 	}
 
 	public function action_404()
