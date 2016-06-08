@@ -12,6 +12,12 @@ class Controller_Auth extends Controller
 		echo "test";
 		echo "test";
 		echo "test";
+		echo "test";
+		echo "test";
+		echo "test";
+		echo "test";
+		echo "test";
+		echo "test100";
 
 
 	}
