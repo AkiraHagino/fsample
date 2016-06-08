@@ -4,6 +4,9 @@ class Controller_Auth extends Controller
 	public function action_index()
 	{
 		echo "test";
+		echo "test2";
+		echo "test3";
+		echo "test4";
 
 	}
 
